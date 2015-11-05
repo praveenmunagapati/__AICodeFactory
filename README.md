@@ -1,5 +1,6 @@
 ### __AICodeFactory
 I'm trying to make a program that can program a program by itself.
+The idea is to make program do programming stuff as much as possible. Human just to need to program the verifying and feedback part, AI should tries to figure out how to program by itself.
 
 	* API seems to be necessary and THEY ARE NEEDED!
 	* Give Limited choices for Program, use generated API for output. Pair control. Evaluation Method
