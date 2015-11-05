@@ -16,8 +16,8 @@ FileControl.show( filename )
 
 print("\n=========================")
 
-# os.system("python " + filename)
+os.system("python " + filename)
 
-child = pexpect.spawn( filename )
-child.expect( '.*' )
-child.sendline( 'aaa\n' )
+# child = pexpect.spawn( filename )
+# child.expect( '.*' )
+# child.sendline( 'aaa\n' )
