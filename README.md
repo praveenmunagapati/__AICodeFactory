@@ -6,7 +6,7 @@ I'm trying to make a program that can program a program by itself.
 	
 	* Generate a python file that create "Hello World"
 	* Verify the output
-****Quest 1
+####Quest 1
 ```
 	Pool:	A(All Possible Letters)
 	Quest1:	>> Hello World!
@@ -14,7 +14,7 @@ I'm trying to make a program that can program a program by itself.
 	Renforce:	cmpr(compare), sqn(sequence), %(persentage)
 	Feedback:	W-PoL(weight of possition of letters)
 ```
-****Quest 2
+####Quest 2
 ```
 	P:	A
 	Q2:	<< 1, >> Hello World!
@@ -23,7 +23,7 @@ I'm trying to make a program that can program a program by itself.
 	R:	cmpr, sqn, %
 	F:	W-PoL
 ```
-****Quest 3
+####Quest 3
 ```
 	P:	A
 	Q3:	<< 1, >> 2
@@ -33,7 +33,7 @@ I'm trying to make a program that can program a program by itself.
 	R:	cmpr, offset, Accuracy
 	F:	W-Acc(weight according to accuracy)
 ```
-****Quest 4
+####Quest 4
 ```
 	P:	A
 	Q4:	<< 1, >> 5
@@ -43,7 +43,7 @@ I'm trying to make a program that can program a program by itself.
 	R:	cmpr, offset, Accuracy
 	F:	W-Acc
 ```
-****Quest 5
+####Quest 5
 ```
 	P:	A
 	Q5:	<< 1, >> xoxoxoxoxo
