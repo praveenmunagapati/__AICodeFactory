@@ -1,2 +1,5 @@
-print( "Hello World!" )
-a = input( "Press ENTER to continue" )
+print( 'Press ENTER to continue' )
+a = input( 'Hello World!' )
+print( 'Press ENTER to continue' )
+a = input( 'Hello World!' )
+print( 'Press ENTER to continue' )
